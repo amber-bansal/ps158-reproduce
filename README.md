@@ -7,9 +7,17 @@
 school or less), in **2025 dollars**, extended through the 2025 survey. In 2025
 the BA-or-more mean was $2,291k against $269k (8.5×), up from 4.7× in 1989.
 
-`figure_family.png` is an extension: the same families, split into couples and
-single parents (median net worth). The gap went from 8.9× in 1989 to 4.5× in
-2019, then back up to 7.3× in 2025.
+## Extension: single parents vs. couples
+
+![Single parents and couples with children](figure_family.png)
+
+`figure_family.png` keeps the same families with children and the same 2025
+dollars, but changes two things. It splits families by structure (married or
+partnered couples vs. single parents) instead of parental education, and it
+uses the median instead of the mean, so a few very wealthy families don't
+drive the lines. The gap fell from 8.9× in 1989 to 4.5× in 2019, as single
+parents' median rose from $18k to $47k, then widened to 7.3× in 2025, as the
+couples' median jumped to $334k and single parents' slipped to $46k.
 
 ## Data
 
